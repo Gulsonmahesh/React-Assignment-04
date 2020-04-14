@@ -1,0 +1,40 @@
+{
+  "models": [
+    {
+      "id": 1,
+      "productname": "Moto G5",
+      "quantity": 2,
+      "price": "Rs. 13000"
+    },
+    {
+      "id": 2,
+      "productname": "Racold Geyser",
+      "quantity": 3,
+      "price": "Rs. 6000"
+    },
+    {
+      "id": 3,
+      "productname": "Dell Inspiron",
+      "quantity": 4,
+      "price": "Rs. 50000"
+    },
+    {
+      "id": 4,
+      "productname": "Model1",
+      "quantity": 12,
+      "price": 22114
+    },
+    {
+      "id": 5,
+      "productname": "model2",
+      "quantity": 12,
+      "price": 19080
+    },
+    {
+      "id": 6,
+      "productname": "model3",
+      "quantity": 12,
+      "price": 333333
+    }
+  ]
+}

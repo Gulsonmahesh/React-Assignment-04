@@ -1,0 +1,12 @@
+.input-error {
+    border: 1px solid red;
+  }
+
+.input-feedback {
+    float: left;
+    color: 'red';
+}
+
+.form-control {
+    width : 50%;
+}
